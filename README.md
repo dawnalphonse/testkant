@@ -1,2 +1,3 @@
 # testkant
-sequence
+sequence timings
+
